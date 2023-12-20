@@ -133,7 +133,7 @@ venv.bak/
 .spyproject
 
 #Files
-~/fantasypoints/data
+/data
 
 # Rope project settings
 .ropeproject

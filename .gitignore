@@ -132,6 +132,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+#Files
+~/fantasypoints/data
+
 # Rope project settings
 .ropeproject
 
